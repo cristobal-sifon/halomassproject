@@ -1,0 +1,11 @@
+*~
+*.save
+*.save.[0-9]
+*.pyc
+*.egg-info
+
+__pycache__
+
+.DS_Store
+
+catalogs
